@@ -22,21 +22,16 @@
 - Hashing
 &nbsp;
 --------------------------------------------------
-### Few Important points & Links
-- Each Topics need to be honed perfectly and learn one new topic daily.
+## Few Important points & Links
 
-
-
-
-## Notes
+### Notes
 
 | Topics | URLs |
 | ------ | ------ |
 | Data Structure | []
 | Algorithm | []
 
-
-: : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :  
+--------------------------------------------------
 
 
 
