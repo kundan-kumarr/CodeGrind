@@ -5,7 +5,7 @@
 - 1 Medium Post Weekly about new skills✨
 - Update GitHub daily to keep track of Progress✨ 
 
-#####Topics
+##### Topics
 
 -------------------------------------------------
 ##### Python 
