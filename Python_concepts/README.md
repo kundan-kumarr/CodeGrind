@@ -22,9 +22,7 @@
 | %         | Mod (the remainder after dividing)             | `(9 % 2)` # 1  |
 | **        | Exponentiation                                 | `(3 ** 2)` # 9 |
 
-
 **Bitwise operators**
-
 
 | Operator | Meaning             | Example                     |
 | -------- | ------------------- | --------------------------- |
@@ -72,7 +70,6 @@ Variable II :
 ```
 x, y, z = 3, 4, 5
 ```
-
 
 Note:
 
@@ -124,7 +121,6 @@ float
 
 The bool data type holds one of the values `True` or `False`, which are often encoded as `1` or `0`, respectively.
 
-
 ### Comparison Operators
 
 | **Symbol Use Case** | **Bool** | **Operation**      |
@@ -144,12 +140,10 @@ And there are three logical operators you need to be familiar with:
 | 5  <  3 `or`5 == 5  | True           | `or`- Evaluates if at least one of many statements is True |
 | `not`5  <  3        | True           | `not`- Flips the Bool Value                                |
 
-
 **Built-In Functions, Type Conversion**
 
 + print() - built in function that displays input value as a text in the output.
 + 
-
 
 In general, there are two types of errors to look out for
 
@@ -160,3 +154,43 @@ An **Exception** is a problem that occurs when the code
 is running, but a 'Syntax Error' is a problem detected when Python
 checks the code before it runs it.  For more information, see the Python
  tutorial page on [Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html).
+
+
+
+##### Control Flow:Zip
+
+##### zip
+
+`zip` returns an iterator that combines multiple iterables
+ into one sequence of tuples. Each tuple contains the elements in that
+position from all the iterables.
+
+
+```
+letters = ['a', 'b', 'c']
+nums = [1, 2, 3]
+
+for letter, num in zip(letters, nums):
+    print("{}: {}".format(letter, num))
+```
+
+unzip a list into tuples
+
+```
+some_list = [('a', 1), ('b', 2), ('c', 3)]
+letters, nums = zip(*some_list)
+```
+
+##### Enumerate
+
+`enumerate` is a built in function that returns an iterator
+of tuples containing indices and values of a list. You'll often use this
+ when you want the index along with each element of an iterable in a
+loop.
+
+
+```
+letters = ['a', 'b', 'c', 'd', 'e']
+for i, letter in enumerate(letters):
+    print(i, letter)
+```
