@@ -1,6 +1,6 @@
 # 300-Days-algorithmic-challenge
 
-##### #300DaysOfCode[7th Jan 2023 - 4th Nov 2023]
+##### #300DaysOfCode[9th Jan 2023 - 5th Nov 2023]
 
 - 2 Code Everyday✨
 - 15 Code per week✨
@@ -11,7 +11,7 @@
 
 ---
 
-##### Python [7th Jan - 14th Jan]
+##### Python [9th Jan - 14th Jan]
 
 ###### Week 1 :
 
