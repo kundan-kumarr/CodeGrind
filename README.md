@@ -90,8 +90,9 @@ def fn(arr):
   ```
 
 #### Time Complexity 
-- O(n), where n is the number of elements in the array. Sliding the window across the array involves constant-time operations for each step (add and subtract an element).
-- O(n), where n is the number of elements in the array. The sliding window adjusts dynamically, with each element being added and removed from the window at most once.
+
+    - `O(n)`, where `n` is the number of elements in the array. Sliding the window across the array involves constant-time operations for each step (add and subtract an element).
+    - `O(n)`, where n is the number of elements in the array. The sliding window adjusts dynamically, with each element being added and removed from the window at most once.
 
 
 - Prefix Sums
