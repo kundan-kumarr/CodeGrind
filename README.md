@@ -52,10 +52,10 @@
 ### Algorithms Design
 #### Arrays
 - Two Pointer Techniques
--
+    - Iterates
 
 
-  
+```
 def fn(arr):
     left = ans = curr = 0
 
@@ -69,7 +69,8 @@ def fn(arr):
         # update ans
     
     return ans
-  
+  ```
+
 - Sliding Windows Fixed Size vs Variable Size
 - Prefix Sums
 - Kadane's Algorithm
