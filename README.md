@@ -52,7 +52,11 @@
 ### Algorithms Design
 #### Arrays
 - Two Pointer Techniques
-- def fn(arr):
+-
+
+
+  
+def fn(arr):
     left = ans = curr = 0
 
     for right in range(len(arr)):
