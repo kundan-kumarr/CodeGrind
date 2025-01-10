@@ -1,4 +1,4 @@
-# #Data Structure and Algorithms Preparation Guide
+## Data Structure and Algorithms Preparation Guide
 
 #### #100DaysOfCode
 -------------------------------------------
