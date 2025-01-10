@@ -48,9 +48,11 @@
 
 ---
 ##### Algorithms Design
+### Arrays
 - Two Pointer Techniques
-- Sliding Windows
-- Prefix Sum
+- Sliding Windows Fixed Size vs Variable Size
+- Prefix Sums
+- Kadane's Algorithm
 ---
 
 ##### Advanced Algorithms Design
