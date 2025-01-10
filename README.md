@@ -1,41 +1,61 @@
-# 300-Days-algorithmic-challenge
+# #Data Structure and Algorithms Preparation Guide
 
-##### #300DaysOfCode[9th Jan 2023 - 5th Nov 2023]
+#### #100DaysOfCode
+-------------------------------------------
 
-- 2 Code Everyday✨
-- 15 Code per week✨
-- 1 Medium Post Weekly about new skills✨
-- Update GitHub daily to keep track of Progress✨
-
-##### Topics
-
+#### General Approach 
+- Coding 
+    - Code should be clean & structured.
+    - Cover the edge and base cases.
+    - All variables and functions well-defined
+- Data Structures & Algorithms 
+    - Solve the problem efficiently with suitable data structure or  algorithm.
+    - Analyze that solution in terms of time & space complexity and the trade-offs.
+    - Compare brute force solutions versus more optimal solutions.
+    - Solve Efficiently 
+- Communication 
+    - Communicate effectively.
+    
+##### Key Principles for Effective Preparation
+- ✨2 Code Everyday✨
+- ✨Update Daily for Tracking✨
+- ✨Add Notes for Revision ✨
+    -  ✨Handwritten Notes or Medium or Substack✨
 ---
-
-##### Python [9th Jan - 14th Jan]
-
+#### Topics
+---
+##### Python Language
 ###### Week 1 :
-
 - Functions
 - Classes
 - Advanced
-
+###### Week 2 :
+- Design Patterns
+- Object oriented Design 
 ---
-
+##### Time Complexity Analysis 
+![](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/products/306049/images/EDEK0CQaRFm7VyYLjZJ3_bigo.jpg)
+---------
+-----
 ##### Data Structure
-
-- Map
+- Arrays 
+- Linked Lists
+- Stacks and Queues
 - Hashing
-- Hashing : Design hash, hash set, Hash Map,Design Key, hashing
+    - Design Hash
+    - Hash Set & Hash Map
+    - Design Key & Hashing
 
 ---
-
-##### Algorithms
-
-- Map
-- Hashing
-- &nbsp;
-
+##### Algorithms Design
+- Two Pointer Techniques
+- Sliding Windows
+- Prefix Sum
 ---
+
+##### Advanced Algorithms Design
+- Dynamic
+----------
 
 ## Few Important points & Links
 
@@ -45,7 +65,5 @@
 | :------------- | ---- |
 | Data Structure | []   |
 | Algorithm      | []   |
-
-![](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/products/306049/images/EDEK0CQaRFm7VyYLjZJ3_bigo.jpg)
 
 ---
