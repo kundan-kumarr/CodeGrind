@@ -58,8 +58,15 @@
 
 
 - Sliding Windows Fixed Size vs Variable Size
-
+    - Fixed Size Approach:
+        - Initialize the window by summing the first k elements.
+        - Slide the window one element at a time by removing the element on the left and adding the element on the right.
+        - Track the maximum sum as you move the window.
   
+     - Variable Size Approach:
+        - Start with both pointers (left and right) at the beginning of the array.
+        - Expand the window by moving the right pointer, adding elements to the window.
+        - When the sum of the window meets or exceeds the target, attempt to shrink the window by moving the left pointer to find the smallest possible window that satisfies the condition.
 ```
 
 def fn(arr):
