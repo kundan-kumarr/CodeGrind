@@ -47,8 +47,8 @@
     - Design Key & Hashing
 
 ---
-##### Algorithms Design
-### Arrays
+### Algorithms Design
+#### Arrays
 - Two Pointer Techniques
 - Sliding Windows Fixed Size vs Variable Size
 - Prefix Sums
