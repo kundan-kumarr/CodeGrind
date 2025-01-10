@@ -53,6 +53,9 @@
 - Sliding Windows Fixed Size vs Variable Size
 - Prefix Sums
 - Kadane's Algorithm
+
+#### Linked Lists
+- Fast and Slow Pointers
 ---
 
 ##### Advanced Algorithms Design
