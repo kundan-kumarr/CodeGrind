@@ -55,23 +55,33 @@
     - Iterates
 
 
+
+
+- Sliding Windows Fixed Size vs Variable Size
+
+  
 ```
+
 def fn(arr):
     left = ans = curr = 0
 
     for right in range(len(arr)):
-        # do logic here to add arr[right] to curr
+        # Add arr[right] to curr (based on the problem's logic)
+        curr += arr[right]
 
-        while WINDOW_CONDITION_BROKEN:
-            # remove arr[left] from curr
+        # Check if the window condition is broken (e.g., sum exceeds some value)
+        while curr > some_limit:  # Replace 'some_limit' with an actual condition
+            # Remove arr[left] from curr to shrink the window
+            curr -= arr[left]
             left += 1
 
-        # update ans
-    
+        # Update ans based on the window (e.g., maximum sum, minimum length, etc.)
+        ans = max(ans, right - left + 1)  # an example for update
+
     return ans
+
   ```
 
-- Sliding Windows Fixed Size vs Variable Size
 - Prefix Sums
 - Kadane's Algorithm
 
