@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore GitHub and VS Code configuration folders
+.github/
+.vscode/
