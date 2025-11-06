@@ -21,26 +21,6 @@
 - ✨Update Daily for Tracking✨
 - ✨Add Notes for Revision ✨
     -  ✨Handwritten Notes or Medium or Substack✨
-
-##### Data Structure & Algorithms
-- Arrays & Strings
-- Dictionaries
-    - Design Hash
-    - Hash Set & Hash Map
-    - Design Key & Hashing
-- Stacks, Queues and Two Pointer
-- Linked Lists
-- Recursion and Divide & Conquer Algorithms
-- Binary Trees
-- Graphs Algorithms
-- Dynamic Programming
-
-
-##### Time-Space Complexity Analysis 
-
-- `Big O` notation describes the worst-case time or space complexity of an algorithm relative to the size of the input.
-![](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/products/306049/images/EDEK0CQaRFm7VyYLjZJ3_bigo.jpg)
-
 ---
 #### Topics
 ---
@@ -53,7 +33,22 @@
 - Design Patterns
 - Object oriented Design 
 ---
+##### Time-Space Complexity Analysis 
 
+- `Big O` notation describes the worst-case time or space complexity of an algorithm relative to the size of the input.
+![](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/products/306049/images/EDEK0CQaRFm7VyYLjZJ3_bigo.jpg)
+---------
+-----
+##### Data Structure
+- Arrays 
+- Linked Lists
+- Stacks and Queues
+- Hashing
+    - Design Hash
+    - Hash Set & Hash Map
+    - Design Key & Hashing
+
+---
 ### Algorithms Design
 #### Arrays
 - Two Pointer Techniques
@@ -111,13 +106,11 @@ def fn(arr):
 - Dynamic
 ----------
 
-## Few Important points & Links
-
-### Notes
+### Few Important Notes & Links
 
 | Topics         | URLs |
 | :------------- | ---- |
-| Data Structure | []   |
-| Algorithm      | []   |
-
+| Data Structure Notes| []   |
+| Algorithm  Notes    | []   |
 ---
+### References
