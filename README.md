@@ -21,35 +21,50 @@
 - ✨Update Daily for Tracking✨
 - ✨Add Notes for Revision ✨
     -  ✨Handwritten Notes or Medium or Substack✨
----
-#### Topics
----
-##### Python Language
-###### Week 1 :
-- Functions
-- Classes
-- Advanced
-###### Week 2 :
-- Design Patterns
-- Object oriented Design 
----
+
+##### Data Structure & Algorithms
+- Arrays & Strings
+- Dictionaries
+    - Design Hash
+    - Hash Set & Hash Map
+    - Design Key & Hashing
+- Stacks, Queues and Two Pointer
+- Linked Lists
+- Recursion and Divide & Conquer Algorithms
+- Binary Trees
+- Graphs Algorithms
+- Dynamic Programming
+
+
 ##### Time-Space Complexity Analysis 
 
 - `Big O` notation describes the worst-case time or space complexity of an algorithm relative to the size of the input.
 ![](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/products/306049/images/EDEK0CQaRFm7VyYLjZJ3_bigo.jpg)
----------
------
-##### Data Structure
-- Arrays 
-- Linked Lists
-- Stacks and Queues
-- Hashing
-    - Design Hash
-    - Hash Set & Hash Map
-    - Design Key & Hashing
+
+#### Topics
+---
+| Weeks | Topic |
+| ------ | ------ |
+| `Week 0` | [Python] [In-Built Function] |
+| `Week 1` | [Arrays] [Strings] |
+| `Week 2` | [Dictionaries] [Hashing] |
+| `Week 3` | [Stacks] [Queues] [Two Pointer]|
+| `Week 4`| [Linked Lists I] [Linked Lists II] |
+| `Week 5`| [Recursion] [Divide & Conquer Algorithms] |
+| `Week 6` | [Binary Trees I] [Binary Trees II] |
+| `Week 7` | [Bit Manipulation] [Maths] |
+| `Week 8` | [Coding Patterns I] [Coding Patterns I] |
+| `Week 9` | [Graph Algorithms]|
+| `Week 10`| [Graph Algorithms] |
+| `Week 11`| [Dynamic Programming]|
+| `Week 12` | [Dynamic Programming] |
+| `Week 13`| [Dynamic Programming] |
+| `Week 14`| [Object oriented Design][Design Patterns] |
+| `Week 15` | [Object oriented Design][Design Patterns] |
 
 ---
-### Algorithms Design
+
+### Algorithms Design Patterns
 #### Arrays
 - Two Pointer Techniques
     - Iterates
@@ -106,13 +121,11 @@ def fn(arr):
 - Dynamic
 ----------
 
-## Few Important points & Links
-
-### Notes
+### Few Important Notes & Links
 
 | Topics         | URLs |
 | :------------- | ---- |
-| Data Structure | []   |
-| Algorithm      | []   |
-
+| Data Structure Notes| []   |
+| Algorithm  Notes    | []   |
 ---
+### References
