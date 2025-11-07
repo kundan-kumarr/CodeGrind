@@ -15,7 +15,12 @@
     - Solve Efficiently 
 - Communication 
     - Communicate effectively.
-    
+
+#### UMPIRE 
+
+
+- UPI (Understand, Plan, Implement) is a way to help you plan and verbalize your thinking before writing code
+      
 ##### Key Principles for Effective Preparation
 - ✨2 Code Everyday✨
 - ✨Update Daily for Tracking✨
