@@ -25,7 +25,8 @@
 - ✨2 Code Everyday✨
 - ✨Update Daily for Tracking✨
 - ✨Add Notes for Revision ✨
-    -  ✨Handwritten Notes or Medium or Substack✨
+-  ✨Handwritten Notes or Medium or Substack✨
+  
 ---
 #### Topics
 ##### Data Structure
