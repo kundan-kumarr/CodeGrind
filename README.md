@@ -27,7 +27,14 @@ The UMPIRE model is a structured, iterative framework for systematic problem-sol
 - Explore more unusual edge cases
 - Explore tradeoffs (memory, performance, code simplicity)
 
+`Plan the Solution`
+- Describe your overall approach in one or two sentences
+- Write down the steps in English
+- Each step should be simple and clear
 
+`Implement the Solution`
+- Translate your plan into code
+- Review and Evaluate the code
       
 ##### Key Principles for Effective Preparation
 - ✨2 Code Everyday✨
