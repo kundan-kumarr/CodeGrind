@@ -83,7 +83,7 @@ The UMPIRE model is a structured, iterative framework for systematic problem-sol
 - `Big O` notation describes the worst-case time or space complexity of an algorithm relative to the size of the input.
 ![](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/products/306049/images/EDEK0CQaRFm7VyYLjZJ3_bigo.jpg)
 ---------
-### Algorithms Design
+### Coding Design Patterns
 #### Arrays
 - Two Pointer Techniques
     - Iterates
