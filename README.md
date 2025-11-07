@@ -17,7 +17,7 @@
     - Communicate effectively.
 
 #### UMPIRE 
-
+![](umpire.png)
 
 - UPI (Understand, Plan, Implement) is a way to help you plan and verbalize your thinking before writing code
       
