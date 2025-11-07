@@ -17,9 +17,17 @@
     - Communicate effectively.
 
 #### UMPIRE 
+The UMPIRE model is a structured, iterative framework for systematic problem-solving, research, and project execution, ensuring logical flow and continuous improvement across stages.
+- Use UPI (Understand, Plan, Implement) technique which help you to plan and verbalize your thinking before writing code
 ![](umpire.png)
 
-- UPI (Understand, Plan, Implement) is a way to help you plan and verbalize your thinking before writing code
+`Understand the Problem`
+- Understand what the interviewer is asking with clarifying questions
+- Generate basic sample input and output
+- Explore more unusual edge cases
+- Explore tradeoffs (memory, performance, code simplicity)
+
+
       
 ##### Key Principles for Effective Preparation
 - ✨2 Code Everyday✨
