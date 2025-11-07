@@ -23,39 +23,49 @@
     -  ✨Handwritten Notes or Medium or Substack✨
 ---
 #### Topics
+##### Data Structure
+- Arrays & Strings
+- Hashing
+    - Design Hash
+    - Hash Set & Hash Map
+    - Design Key & Hashing
+- Stacks and Queues
+- Linked Lists
+- Binary Trees 
+- Heaps
+- Graph Algorithms
+- Recursion and Divide & Conquer
+- Dynamic Programming
+
+
 ---
-##### Python Language
-###### Week 1 :
-- Functions
-- Classes
-- Advanced
-###### Week 2 :
-- Design Patterns
-- Object oriented Design 
+| Week | Topic |
+| ------ | ------ |
+| `week 1` | [Arrays] [Strings] |
+| `week 2`  | [Dictionaries] [Hashing] |
+| `week 3`  | [Stacks] [Queues] [Two Pointer] |
+| `week 4`  | [Linked Lists I] [Linked Lists II] |
+| `week 5` | [Recursion] [Divide & Conquer Algorithms] |
+| `week 6` | [Binary Trees] [Binary Search] |
+| `week 7` | [Searching] [Sorting] |
+| `week 8`  | [Graphs I] [Graphs II] |
+| `week 9`  | [Coding Patterns I] [Coding Patterns II] |
+| `week 10`  | [Bit Manipulation] [Maths] |
+| `week 11` | [Dynamic Programming I] [Dynamic Programming II] |
+| `week 12` | [Dynamic Programming III] [Dynamic Programming IV] |
+| `week 13`  | [Coding Practice I] [Coding Practice II] |
+| `week 14` | Design Patterns] [Object Oriented Design] |
+| `week 15` | [System Design I] [System Design II] |
 ---
 ##### Time-Space Complexity Analysis 
 
 - `Big O` notation describes the worst-case time or space complexity of an algorithm relative to the size of the input.
 ![](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/products/306049/images/EDEK0CQaRFm7VyYLjZJ3_bigo.jpg)
 ---------
------
-##### Data Structure
-- Arrays 
-- Linked Lists
-- Stacks and Queues
-- Hashing
-    - Design Hash
-    - Hash Set & Hash Map
-    - Design Key & Hashing
-
----
 ### Algorithms Design
 #### Arrays
 - Two Pointer Techniques
     - Iterates
-
-
-
 
 - Sliding Windows Fixed Size vs Variable Size
     - Fixed Size Approach:
@@ -114,3 +124,8 @@ def fn(arr):
 | Algorithm  Notes    | []   |
 ---
 ### References
+- Cormen 
+
+
+
+
