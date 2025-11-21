@@ -18,7 +18,14 @@
 
 #### UMPIRE 
 The UMPIRE model is a structured, iterative framework for systematic problem-solving, research, and project execution, ensuring logical flow and continuous improvement across stages.
-- Use UPI (Understand, Plan, Implement) technique which help you to plan and verbalize your thinking before writing code
+UMPIRe Has six steps:
+- Understand the problem
+- Match identifies common approaches you've seen/used before
+- Plan a solution step-by-step, and
+- Implement the solution
+- Review your solution
+
+- For Interview, Use UPI (Understand, Plan, Implement) technique which help you to plan and verbalize your thinking before writing code
 ![](umpire.png)
 
 `Understand the Problem`
@@ -35,7 +42,10 @@ The UMPIRE model is a structured, iterative framework for systematic problem-sol
 `Implement the Solution`
 - Translate your plan into code
 - Review and Evaluate the code
-      
+
+ 
+Evaluate your solution's time and space complexity and think critically about the advantages and disadvantages of your chosen approach.
+
 ##### Key Principles for Effective Preparation
 - ✨2 Code Everyday✨
 - ✨Update Daily for Tracking✨
